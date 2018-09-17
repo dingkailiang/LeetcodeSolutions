@@ -1,6 +1,8 @@
 
 METHOD = "generate"
 
+TESTCASES = [5,6]
+
 class Solution:
     def generate(self, numRows):
         """
