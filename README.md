@@ -1,2 +1,2 @@
 # LeetcodeSolutions
-usage: python run.py question# [testcase]
+usage: python run.py question#
